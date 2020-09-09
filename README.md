@@ -33,6 +33,7 @@ Usage for the predict command:
 _Representation of the Neural Network Structure formed_
 
 <img src="TrafficSignNet.png" alt="Neural Network" width="350" height="300">
+
 ## Built Using
 
 ML and neural-network libraries like Keras, tensorflow, matplotlib, and image detection libraries like OpenCV and imutils
