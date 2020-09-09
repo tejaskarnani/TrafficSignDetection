@@ -30,6 +30,8 @@ Usage for the predict command:
 
 ```python predict.py --model output/trafficsignnet.model --images gtsrb-german-traffic-sign/Test --examples examples```
 
+_Representation of the Neural Network Structure formed_
+<img src="TrafficSignNet.png" alt="Neural Network" width="1000" height="500">
 ## Built Using
 
 ML and neural-network libraries like Keras, tensorflow, matplotlib, and image detection libraries like OpenCV and imutils
