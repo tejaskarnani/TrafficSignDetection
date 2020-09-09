@@ -3,9 +3,13 @@
 This is a program to detect the a traffic sign from an image. The program is using ML model training. The training dataset of images was downloaded from kaggle.com. Kaggle is a website where several such datasets can easily be found for a variety of purposes. The dataset is over 300MB, and has not been downlaoded onto this repository because of its size. It can be easily be donwloaded at this [link](https://www.kaggle.com/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign)
 
 ## Prerequisites
+
 _Dataset_
+
 Download the dataset from the kaggle link above. The programs downloaded from this repository and the dataset must lie in the same directory!
+
 _Modules_
+
 Before running the Python code on the repository, it has to be ensured that your computer has Python 3.8 and the other modules, mentioned in the following list pre-installed, as they shall all be imported in the ```predict.py``` and ```train.py```
 - keras
 - tensorflow
